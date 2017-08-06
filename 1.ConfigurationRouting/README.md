@@ -15,7 +15,7 @@ Before doing anything, we have to set up our Development Environment.
 Prerequisites:
 
 - [Node.js](https://nodejs.org/en/)
-- [Visual Studio Code] (https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Git Bash](https://git-scm.com/downloads)
 
 Then install [Angular CLI](https://cli.angular.io/) globally. Open up a `cmd`/`PowerShell` and type in:
