@@ -53,8 +53,8 @@ Click [here](http://localhost:4200/) and see what happens.
 
 *Bonus!* As I said earlier, the server that we started with `ng serve` watches our files and compiles the ones that we modified in real time so let's check that out. Minimize the text editor, make a change and then watch what happens when you actually save the file.
 
-![HelloWorld2](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-2-4.PNG)
+![HelloWorld2](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-2-5.PNG)
 
 Great! Now that we know more about modules, let's create some of our own in the next module!
 
-[Module 3: Creating your own Components]()
+[Module 3: Creating your own Components](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/3.Creating-Components/README.md)
