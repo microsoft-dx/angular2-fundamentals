@@ -33,6 +33,7 @@ Open a `terminal window` in a folder that you created for your project and creat
 Go to the project's directory and launch the server
 
 >cd my-first-app
+
 >ng serve --open
 
 The awesome thing about `ng serve` is that not only it launches your server, but also watches your files and rebuilds the application as those files are changed. What does this mean? You don't have to compile and recompile endlessly as you develop your aplication, you can just watch it change as you write your code.
@@ -49,4 +50,4 @@ The fact that we added the additional oprion `--open`, or we could have used `-o
 *Congratulations!* 
 You have just built your first Angular app!
 
-## [Module 2: Components](https://github.com/microsoft-dx/angular2-fundamentals/tree/master/2.Components/README.md) 
+## [Next Module: Components](https://github.com/microsoft-dx/angular2-fundamentals/tree/master/2.Components/README.md) 
