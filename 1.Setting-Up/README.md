@@ -44,7 +44,7 @@ Our `serve` command looked like this:
 
 The fact that we added the additional oprion `--open`, or we could have used `-o` as well, opened up a new tab in our browser that looks something like this:
 
-![module-1-1]()
+![module-1-1](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-1-1.PNG)
 
 *Congratulations!* 
 You have just built your first Angular app!
