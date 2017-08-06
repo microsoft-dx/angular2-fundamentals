@@ -1,4 +1,4 @@
-# Module 2: Creating your first component
+# Module 2: Components
 
 In this module we will learn about Angular Components. 
 
@@ -39,4 +39,22 @@ Looking further down, we must remember that this is still a `TypeScript` file. W
 
 Another important aspect is our `View`. We can see that Angular created a view for us (`app.component.html`). 
 
+![View](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-2-4.PNG)
 
+Let's look at the first `div` tag. We can see that we have the following text:
+
+`Welcome to {{title}}!`
+
+Any clues what {{title}} is? It is the actual property from the class that we defined earlier.
+
+In *Visual Studio Code*, open up `app.component.ts` and inside our `AppComponent` class change the title property's value to anything that you wish. 
+
+Click [here](http://localhost:4200/) and see what happens. 
+
+*Bonus!* As I said earlier, the server that we started with `ng serve` watches our files and compiles the ones that we modified in real time so let's check that out. Minimize the text editor, make a change and then watch what happens when you actually save the file.
+
+![HelloWorld2](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-2-4.PNG)
+
+Great! Now that we know more about modules, let's create some of our own in the next module!
+
+[Module 3: Creating your own Components]()
