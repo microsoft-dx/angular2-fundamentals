@@ -48,3 +48,5 @@ The fact that we added the additional oprion `--open`, or we could have used `-o
 
 *Congratulations!* 
 You have just built your first Angular app!
+
+## [Module 2: Components](https://github.com/microsoft-dx/angular2-fundamentals/tree/master/2.Components/README.md) 

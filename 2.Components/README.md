@@ -57,4 +57,4 @@ Click [here](http://localhost:4200/) and see what happens.
 
 Great! Now that we know more about modules, let's create some of our own in the next module!
 
-[Module 3: Creating your own Components](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/3.Creating-Components/README.md)
+## [Module 3: Creating your own Components](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/3.Creating-Components/README.md)
