@@ -1,4 +1,4 @@
-# Module 1: Configuration & Routing
+# Module 1: Setting Up
 
 In this module we will install Angular 2 and get it set up to a basic configuration, based on their own [quickstart](https://angular.io/guide/quickstart).
 
@@ -6,7 +6,7 @@ The [Angular CLI](https://cli.angular.io/) is a *command line interface*(`CLI`) 
 
 The goal in this module is to build and run a simple [`Angular`](https://angular.io/) application in [`TypeScript`](https://www.typescriptlang.org/), using the Angular CLI while adhering to the Style Guide recommendations that benefit every Angular project.
 
-If you are new to [TypeScript], I suggest you check out our [repo](https://github.com/microsoft-dx/typescript-fundamentals) before pursuing this course. 
+If you are new to [TypeScript](https://www.typescriptlang.org/), I suggest you check out our [repo](https://github.com/microsoft-dx/typescript-fundamentals) before pursuing this course. 
 
 ### Step 1: Set up the Development Environment
 
