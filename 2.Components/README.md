@@ -55,6 +55,6 @@ Click [here](http://localhost:4200/) and see what happens.
 
 ![HelloWorld2](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/Images/module-2-5.PNG)
 
-Great! Now that we know more about modules, let's create some of our own in the next module!
+Great! Now that we know more about modules, let's create some of our own!
 
-## [Module 3: Creating your own Components](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/3.Creating-Components/README.md)
+## [Next Module: Creating your own Components](https://github.com/microsoft-dx/angular2-fundamentals/blob/master/3.Creating-Components/README.md)
